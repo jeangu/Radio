@@ -9,6 +9,10 @@ http://mp3.live.tv-radio.com/fip/all/fiphautdebit.mp3
 http://mp3.live.tv-radio.com/franceinter/all/franceinterhautdebit.mp3
 #EXTINF:0,France Info
 http://mp3.live.tv-radio.com/franceinfo/all/franceinfo.mp3
+#EXTINF:0,France Culture
+http://mp3.live.tv-radio.com/franceculture/all/franceculturehautdebit.mp3
+#EXTINF:0,France Musique
+http://mp3.live.tv-radio.com/francemusique/all/francemusiquehautdebit.mp3
 #EXTINF:0,Le Mouv
 http://mp3.live.tv-radio.com/lemouv/all/lemouvhautdebit.mp3
 #EXTINF:0,OUI FM
