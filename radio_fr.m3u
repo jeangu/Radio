@@ -19,3 +19,5 @@ http://vipicecast.yacast.net:80/rfm_128
 http://vipicecast.yacast.net:80/rmc_web
 #EXTINF:0, Europe 1
 http://pvr.yacast.net/europe1.mp3
+#EXTINF:0, Frequence 3
+http://firewall.frequence3.net:80/
