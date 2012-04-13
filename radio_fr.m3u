@@ -37,3 +37,7 @@ http://vipicecast.yacast.net:80/rmc_web
 http://pvr.yacast.net/europe1.mp3
 #EXTINF:0,Frequence 3
 http://firewall.frequence3.net:80/
+#EXTINF:0,Virgin Radio
+http://vipicecast.yacast.net:80/virginradio_128
+#EXTINF:0,Nostalgie
+http://mp3.live.tv-radio.com/nostalgie/all/nos_113812.mp3
