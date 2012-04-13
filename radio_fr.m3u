@@ -7,6 +7,8 @@ http://vipicecast.yacast.net:80/funradio
 http://mp3.live.tv-radio.com/fip/all/fiphautdebit.mp3
 #EXTINF:0,France Inter
 http://mp3.live.tv-radio.com/franceinter/all/franceinterhautdebit.mp3
+#EXTINF:0,France Info
+http://mp3.live.tv-radio.com/franceinfo/all/franceinfo.mp3
 #EXTINF:0,Le Mouv
 http://mp3.live.tv-radio.com/lemouv/all/lemouvhautdebit.mp3
 #EXTINF:0,OUI FM
