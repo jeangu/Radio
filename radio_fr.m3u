@@ -13,6 +13,16 @@ http://mp3.live.tv-radio.com/lemouv/all/lemouvhautdebit.mp3
 http://broadcast.infomaniak.net:80/ouifm-high.mp3
 #EXTINF:0,FG Radio
 http://fg.impek.com:80
+#EXTINF:0,FG Dance
+http://fgd.impek.com:80
+#EXTINF:0,FG Clubbing
+http://fg6.impek.com:80
+#EXTINF:0,FG Remix
+http://fgv.impek.com:80
+#EXTINF:0,FG House Chic
+http://fgc.impek.com:80
+#EXTINF:0,Underground FG
+http://ufg.impek.com:80
 #EXTINF:0,RFM
 http://vipicecast.yacast.net:80/rfm_128
 #EXTINF:0,RMC
